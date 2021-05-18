@@ -1,0 +1,22 @@
+
+h1{color:white;
+    font-size:48px;
+    font-family:"broadway";
+    position:relative;
+    border-right:50px;
+
+}
+
+a{
+    margin:25px;
+    color:white;
+    font-family:"century Gothic";
+
+}
+body{
+    color:white;
+    font-family:"century Gothic";
+    font-size:25px;
+    border:10px solid white;
+    background-color:gold;
+}
